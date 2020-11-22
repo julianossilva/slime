@@ -1,0 +1,19 @@
+{
+    "name": "julianossilva/slime",
+    "description": "A php lib",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Slime\\": "lib"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juliano Silva",
+            "email": "julianosoaresdasilva@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
